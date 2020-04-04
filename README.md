@@ -1,2 +1,2 @@
-# Field_Network_Mononitor
+# Field_Network_Monitor
 This is the code and instructions for how to design a ruggedized network monitor box from an RPi that can be plugged into base stations for usage and performance monitoring.
